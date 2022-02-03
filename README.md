@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">An enthusiastic full-stack web developer driven by curiosity, creativity, respect and responsibility.</h3>
+<h3 align="center">An enthusiastic full-stack web developer.</h3>
 
 - 🌱 I’m currently learning **React Native**
 
