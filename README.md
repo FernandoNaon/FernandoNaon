@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://fernandonaon.vercel.app/](https://fernandonaon.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://fernandonaon-dev.vercel.app/](https://fernandonaon-dev.vercel.app/)
 
 - 💻 My Linkedin profile **https://www.linkedin.com/in/fernando-naon/**
 
