@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">An enthusiastic full-stack web developer.</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://fernandonaon-dev.vercel.app/](https://fernandonaon-dev.vercel.app/)
 
