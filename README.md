@@ -7,7 +7,6 @@
 
 - 💻 My Linkedin profile **https://www.linkedin.com/in/fernando-naon/**
 
-- 📫 How to reach me **fernandonaon@gmail.com**
 
 - ⚡ Fun fact about me **My first word was Alf.**
 
