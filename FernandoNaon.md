@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">An enthusiastic full-stack web developer driven by curiosity, creativity, respect and responsibility.</h3>
 
-- 🌱 I’m currently learning **React Native**
+<!-- - 🌱 I’m currently learning **React Native** -->
 
 - 👨‍💻 All of my projects are available at [https://fernandonaon.vercel.app/](https://fernandonaon.vercel.app/)
 
