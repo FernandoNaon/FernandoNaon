@@ -8,7 +8,7 @@
 - 💻 My Linkedin profile **https://www.linkedin.com/in/fernando-naon/**
 
 
-- ⚡ Fun fact about me **My first word was Alf.**
+<!-- - ⚡ Fun fact about me **My first word was Alf.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
