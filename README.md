@@ -1,12 +1,15 @@
 <h1 align="center">Hi there👋, I'm Fernando</h1>
-<h3 align="center">An enthusiastic full-stack web developer.</h3>
 
-<!-- - 🌱 I’m currently learning **React Native** -->
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3l1Z213eGRwMmgxNDBmZDRqdjQ0ZzNvZzlpdTltam5kdHRweG9raiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/320DfGXqFd5stx7yWS/giphy.gif" width="230" style="border-radius: 50%;">
+
+<h3 align="center">A passionate web developer and musician, always curious and creative.</h3>
+
+
+- 🌱 lifelong learner
 
 - 👨‍💻 All of my projects are available at [https://fernandonaon-dev.vercel.app/](https://fernandonaon-dev.vercel.app/)
 
 - 💻 My Linkedin profile **https://www.linkedin.com/in/fernando-naon/**
-
 
 <!-- - ⚡ Fun fact about me **My first word was Alf.** -->
 
